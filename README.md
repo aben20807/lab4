@@ -41,9 +41,9 @@ Among them<br>
 00000000004004b4 T _Z7averagePdRd<br>
 00000000004004e2 T _Z7averageif<br>
 are the encoded identifiers being used for the functions.<br>
-_<br>
-question B:
-./questionB
+<br>
+question B:<br>
+./questionB<br>
 output:<br>
 1 8<br>
 4 8<br>
